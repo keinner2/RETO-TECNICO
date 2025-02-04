@@ -1,0 +1,7 @@
+Perro|terrestre|Guau guau!
+Gato|terrestre|Miau!
+Delfin|acuatico|iiii iiii!
+Halcon|volador|gañido!
+Loro|volador|Hola!
+Tiburon|acuatico|Chasquido de dientes!
+Caballo|terrestre|Relincho!
