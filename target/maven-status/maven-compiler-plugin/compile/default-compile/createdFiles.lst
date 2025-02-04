@@ -1,0 +1,5 @@
+com\animales\enums\TipoAnimal.class
+com\animales\interfaces\Sonido.class
+com\animales\services\AnimalServices.class
+com\animales\Main.class
+com\animales\models\Animal.class
